@@ -1,0 +1,5 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
+page for dogs <a href='/'>main</a>
+<br>
+<br>
+<img src='/static/dogs'>

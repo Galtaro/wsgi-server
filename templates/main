@@ -1,0 +1,11 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
+main page,
+your user name is {{ user_name }}
+<br>
+<a href='/cats'>cats</a>
+<br>
+<a href='/dogs'>dogs<a/>
+<br>
+<img src='/static/main'>
+
+
